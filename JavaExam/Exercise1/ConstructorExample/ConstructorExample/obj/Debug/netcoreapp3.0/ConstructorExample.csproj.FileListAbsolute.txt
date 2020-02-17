@@ -1,0 +1,11 @@
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\bin\Debug\netcoreapp3.0\ConstructorExample.exe
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\bin\Debug\netcoreapp3.0\ConstructorExample.deps.json
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\bin\Debug\netcoreapp3.0\ConstructorExample.runtimeconfig.json
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\bin\Debug\netcoreapp3.0\ConstructorExample.runtimeconfig.dev.json
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\bin\Debug\netcoreapp3.0\ConstructorExample.dll
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\bin\Debug\netcoreapp3.0\ConstructorExample.pdb
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\obj\Debug\netcoreapp3.0\ConstructorExample.csprojAssemblyReference.cache
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\obj\Debug\netcoreapp3.0\ConstructorExample.AssemblyInfoInputs.cache
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\obj\Debug\netcoreapp3.0\ConstructorExample.AssemblyInfo.cs
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\obj\Debug\netcoreapp3.0\ConstructorExample.dll
+C:\Users\ts35494\source\repos\JavaExam\Exercise1\ConstructorExample\ConstructorExample\obj\Debug\netcoreapp3.0\ConstructorExample.pdb

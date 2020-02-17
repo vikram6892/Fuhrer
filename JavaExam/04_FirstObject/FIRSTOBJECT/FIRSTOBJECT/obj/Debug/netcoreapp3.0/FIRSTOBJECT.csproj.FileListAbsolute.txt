@@ -1,0 +1,11 @@
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\bin\Debug\netcoreapp3.0\FIRSTOBJECT.exe
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\bin\Debug\netcoreapp3.0\FIRSTOBJECT.deps.json
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\bin\Debug\netcoreapp3.0\FIRSTOBJECT.runtimeconfig.json
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\bin\Debug\netcoreapp3.0\FIRSTOBJECT.runtimeconfig.dev.json
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\bin\Debug\netcoreapp3.0\FIRSTOBJECT.dll
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\bin\Debug\netcoreapp3.0\FIRSTOBJECT.pdb
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\obj\Debug\netcoreapp3.0\FIRSTOBJECT.csprojAssemblyReference.cache
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\obj\Debug\netcoreapp3.0\FIRSTOBJECT.AssemblyInfoInputs.cache
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\obj\Debug\netcoreapp3.0\FIRSTOBJECT.AssemblyInfo.cs
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\obj\Debug\netcoreapp3.0\FIRSTOBJECT.dll
+C:\Users\ts35494\source\repos\JavaExam\04_FirstObject\FIRSTOBJECT\FIRSTOBJECT\obj\Debug\netcoreapp3.0\FIRSTOBJECT.pdb

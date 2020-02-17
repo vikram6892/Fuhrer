@@ -1,0 +1,11 @@
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\bin\Debug\netcoreapp3.0\MuliDimensionalArray.exe
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\bin\Debug\netcoreapp3.0\MuliDimensionalArray.deps.json
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\bin\Debug\netcoreapp3.0\MuliDimensionalArray.runtimeconfig.json
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\bin\Debug\netcoreapp3.0\MuliDimensionalArray.runtimeconfig.dev.json
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\bin\Debug\netcoreapp3.0\MuliDimensionalArray.dll
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\bin\Debug\netcoreapp3.0\MuliDimensionalArray.pdb
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\obj\Debug\netcoreapp3.0\MuliDimensionalArray.csprojAssemblyReference.cache
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\obj\Debug\netcoreapp3.0\MuliDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\obj\Debug\netcoreapp3.0\MuliDimensionalArray.AssemblyInfo.cs
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\obj\Debug\netcoreapp3.0\MuliDimensionalArray.dll
+C:\Users\ts35494\source\repos\JavaExam\03_MultiDimensionalArray\MuliDimensionalArray\MuliDimensionalArray\obj\Debug\netcoreapp3.0\MuliDimensionalArray.pdb

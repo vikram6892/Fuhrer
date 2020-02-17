@@ -1,0 +1,11 @@
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.0\InterfaceExample.exe
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.0\InterfaceExample.deps.json
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.0\InterfaceExample.runtimeconfig.json
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.0\InterfaceExample.runtimeconfig.dev.json
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.0\InterfaceExample.dll
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.0\InterfaceExample.pdb
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.0\InterfaceExample.csprojAssemblyReference.cache
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.0\InterfaceExample.dll
+C:\Users\ts35494\source\repos\JavaExam\08_InterfaceExample\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.0\InterfaceExample.pdb

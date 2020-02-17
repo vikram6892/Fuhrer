@@ -1,0 +1,11 @@
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\obj\Debug\netcoreapp3.0\CakeFactory.csprojAssemblyReference.cache
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\obj\Debug\netcoreapp3.0\CakeFactory.AssemblyInfoInputs.cache
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\obj\Debug\netcoreapp3.0\CakeFactory.AssemblyInfo.cs
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\bin\Debug\netcoreapp3.0\CakeFactory.exe
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\bin\Debug\netcoreapp3.0\CakeFactory.deps.json
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\bin\Debug\netcoreapp3.0\CakeFactory.runtimeconfig.json
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\bin\Debug\netcoreapp3.0\CakeFactory.runtimeconfig.dev.json
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\bin\Debug\netcoreapp3.0\CakeFactory.dll
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\bin\Debug\netcoreapp3.0\CakeFactory.pdb
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\obj\Debug\netcoreapp3.0\CakeFactory.dll
+C:\Users\ts35494\source\repos\JavaExam\06_CakeFactory\CakeFactory\CakeFactory\obj\Debug\netcoreapp3.0\CakeFactory.pdb
