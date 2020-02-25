@@ -356,201 +356,223 @@ The tyre was
 a)	manufactured in 12th calendar week of the year 2017
 
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+					13.5 Electronic aids
+------------------------------------------------------------------------------------------------
 
 
-
-
-13.5 Electronic aids
 1. (3P) What is the potential risk when using driver assistance systems? The vehicle driver may
 a)	pay too little attention to the traffic around him
 b)	have false expectations of the systems
 c)	neglect his own personal responsibility
+
+
 2. (3P) How can driver assistance systems be helpful?
 a)	In assisting the driver
 b)	In increasing road safety
 c)	To compensate for unfitness to drive
+
 3. (2P) What can restrict the functionality of a lane departure warning system?
-a) dirty road surface
-b) The absence of road markings
-c) The absence of guardrails
+a) 	dirty road surface
+b) 	The absence of road markings
+c) 	The absence of guardrails
+
 4. (2P) What could happen if the cruise control system (Speed limiter) is switched off too late?
 a)	Tailgating
 b)	Excessively high cornering speed
 c)	Exceeding the permissible maximum speed
+
 5. (3P) With what can a cruise control system (speed limiter) assist you?
 a)	With maintaining a constant speed
 b)	With maintaining an energy-saving driving style
 c)	With maintaining the minimum distance to the vehicle ahead
+
 6. (3P) What should I be aware of when using an adaptive cruise control system?
 a)	The system can be affected by heavy rain or snow fall
 b)	Activating the accelerator or brake pedal can always override the system
 c)	I must remain constantly attentive even when using the system for a longer period
+
 7. (3P) What function is performed by an adaptive cruise control system on a motor vehicle? The system
 a)	Independently accelerates the vehicle to a previously configured speed
 b)	Automatically maintains the prescribed safety distance
 c)	Brakes independently when the vehicle ahead is moving slower
+
 8. (3P) A lane assist system with corrective steer control can help when driving. What should you be aware of? A lane assist system with corrective steer control can
 a)	Not function if the road markings are poor
 b)	Keep the vehicle in lane if the road markings are poor
 c)	Compensate for a lack of fitness to drive(e.g. tiredness)
+
 9. (3P) What benefits does the driver of motor vehicle have by using a cruise control system? The cruise control
 a)	Maintains a constant pre-set speed on a level carriageway
 b)	Makes it easier for the driver to operate the vehicle
 c)	Adjusts the speed to the traffic density
+
 10. (4P) What is the effect of an automatic anti-locking device (ABS)?
 a)	The vehicle is braked in the best possible way also on wet roadways
 b)	Steering control is largely retained when braking
 c)	Aquaplanning is prevented
+
 11. (4P) What are the advantages of an automatic anti-locking device (ABS)?
 a)	Steering control is retained even when braking heavily
 b)	The wheels do not lock when braking
 c)	Bends can be taken considerably faster
+
 12. (4P) What are the advantages of automatic anti-locking device (ABS)?
 a)	It is possible to brake heavily and avoid an obstacle at the same time
 b)	The danger of tipping over is reduced when braking on bends
 c)	On setting off, wheelspin is prevented
+
 13. (3P) What are the advantages of an anti-slip device (ASR)?
 a)	Reduced danger of sliding sideways when setting off on a slippery roadway
 b)	No wheelspin when setting off
 c)	No locking of the wheels when braking
-     -----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+------------------------------------------------------------------------------------------------
+				13.6 Physics of driving
+------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13.6 Physics of driving
 1. (4P) You are approaching a sharp left-hand bend at high speed. Why is it necessary to reduce your speed before you have actually reached the bend? Because otherwise my vehicle
 a)	Could begin to skid
 b)	Could slide off to the right along the bend
 c)	Could slide off to the left along the bend
+
 2. (4P) You are driving at high speed into a bend. What could happen if you had to brake suddenly? My vehicle
 a)	Could skid out of the road
 b)	Could lose its grip on the road
 c)	Will constantly maintain its driving stability with the stability control
+
 3. (3P) What increases the danger of “flying out” of a bend when driving at high speed?
 a)	Braking
 b)	Accelerating
 c)	Disengaging the clutch
+
 4. (3P) You drive round a bend once at 30 km/h and again at 60 km/h. How does the centrifugal force change? Centrifugal force at 60 km/h 
 a)	Is four times as high
 b)	Is twice as high
 c)	Is the same
+
 5. (3P) What increases the effect of centrifugal force on the vehicle when driving round bends?
 a)	Higher speed
 b)	Smaller radius of a bend
 c)	Higher tyre pressure
+
 6. (3P) What does a front-wheel drive car tend to do if you accelerate too much on a bend?
 a)	The front end tends to turn out to the side
 b)	The rear end tends to turn out to the side
 c)	The vehicle tends to oversteer
+
 7. (3P) What does a rear-wheel drive car tend to do if you accelerate too much on a bend?
 a)	The rear end tends to turn out to the side
 b)	The front end tends to turn out to the side
 c)	The vehicle tends to understeer
+
 8. (4P) You suddenly have to brake when concerning on a wet carriageway. What special aspects exist with a vehicle equipped with an anti-lock braking system (ABS)?
 a)	The steering capability is retained for longer
 b)	The vehicle will always remain stable
 c)	It is not possible for the vehicle to skid out of the bend
---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-13.7 Eco-friendly use of Motor Vehicle / dealing with traffic restrictions
+------------------------------------------------------------------------------------------------
+	13.7 Eco-friendly use of Motor Vehicle / dealing with traffic restrictions
+------------------------------------------------------------------------------------------------
 1. (3P) You are driving through city traffic in rush hour. What are the effects of stop-and-go driving? My vehicle
 a)	Consumes more fuel
 b)	Creates more exhaust gases
 c)	Creates more nuisances for others
+
 2. (3P) What information should you obtain before undertaking a journey with a purely electric vehicle?
 a)	Factors that influence the  range
 b)	What I have to do following an accident
 c)	The locations at which I can charge the vehicle
+
 3. (2P) You are planning a longer journey with a purely electric vehicle. What should you be aware of?
 a)	The battery charging time
 b)	The availability of electric charging stations
 c)	The influence of external ambient temperatures on the range
+
 4. (3P) What should you be aware of when charging purely electric vehicles?
 a)	The charge time depends on the power supply
 b)	Charging should only be performed with a charging cable approved by the manufacturer
 c)	Charging is available at every filling station
+
 5. (3P) How is a purely electric vehicle different from a vehicle with a combustion engine? Purely electric vehicles
 a)	Do not have any direct exhaust emissions
 b)	Have a lower engine noise
 c)	Have a lower aerodynamic drag
+
 6. (3P) You are driving a purely electric vehicle in a residential area. What should you be aware of due to your lower engine noise?
 a)	Cyclists travelling ahead will turn left, without looking behind them
 b)	Pedestrians will not notice me or will do so later than usual
 c)	Vehicles following behind will tailgate me
+
 7. (3P) What should you do to protect the environment? When
 a)	A lot of smoke is coming from the exhaust, I should arrange for the motor vehicle to be checked
 b)	Waiting for prolonged periods, I should switch off the engine
 c)	Driving, I should use the upper engine speed range
+
 8. (3P) What must you remember in the interests of environmental protection?
 a)	To avoid running the engine unnecessarily when you are stationary
 b)	To avoid driving back and forth unnecessarily
 c)	To drive with high revolutions per minute too often
+
 9. (3P) What must be regularly serviced to prevent high fuel consumption and excessive pollutant emission?
 a)	Carburettor or fuel-injection system
 b)	Ignition system
 c)	Engine air filter
+
 10. (3P) When should you switch off the engine to save fuel and reduce pollution?
 a)	When you have to wait at level crossings or building sites
 b)	When you have to wait in a traffic jam for a long time
 c)	When you stop at a “STOP” sign
+
 11. (4P) Your vehicle loses oil. How much drinking water can be polluted by a single drop of oil? Upto
 a)	600 litres
 b)	50 litres
 c)	1 litre
+
 12. (3P) What must you remember when refuelling?
 a)	Do not refuel when the tank is full and the nozzle has switched off
 b)	Do not breath in any fuel fumes
 c)	Fill up to the brim if possible
+
 13. (3P) The engine and exhaust system of a vehicle have been “souped up”. What could be the effects?
 a)	Increased noise pollution
 b)	Increased pollutant emission
 c)	Considerable reduction in fuel consumption
+
 14. (3P) What can cause unnecessary noise pollution when driving?
 a)	A defective exhaust
 b)	Unnecessarily fast acceleration
 c)	Driving at low revolutions per minute
+
 15. (3P) How should you change gears in order to drive with particular consideration to the environment and fuel saving?
 a)	Change to a higher gear as early as possible
 b)	Change to a lower gear as late as possible
 c)	Change gears only when reaching the upper revolution limit
+
 16. (3P) What is important to avoid pollution and to save energy when driving?
 a)	Check the fuel consumption regularly
 b)	Have the engine tuning checked regularly
 c)	Wash the engine regularly, at least four times a year
+
 17. (3P) How is fuel wasted and the environment polluted?
 a)	By “playing with the accelerator” while waiting at traffic lights
 b)	By driving in a hectic manner
 c)	Using a high gear driving downhill
+
 18. (3P) What indicates excessive petrol consumption due to high wear or wrong tuning of the engine?
 a)	A lot of dark exhaust smoke
 b)	Condensation water from the exhaust
+
 19. (3P) What kind of driving results in high fuel consumption?
 a)	Revving up all gears
 b)	Driving at high speed
 c)	Fast starts and unnecessary acceleration
+
 20. (3P) How do you drive with consideration to the environment?
 a)	Decelerate in good time and use the momentum of the car when the next traffic light is on red
 b)	Avoid unnecessary acceleration and unnecessary braking
@@ -560,38 +582,47 @@ c)	Always accelerate to the maximum when the traffic light changes to green
 a)	Think ahead when driving in order to avoid unnecessary acceleration and braking
 b)	Accelerate in such a way that the highest possible gear is quickly reached
 c)	By pushing all gears to the highest possible revolutions
+
 22. What can help save fuel and reduce pollution?
 a)	Using public transport, a bicycle or walking, wherever possible
 b)	Paying attention to the fuel consumption of a motor vehicle when buying it
 c)	Contributing to a constant flow of traffic by thinking ahead and driving correspondingly
+
 23. Why does environment friendly driving in general have a beneficial effect on traffic safety?
 a)	Because environment friendly driving avoids high speeds so that dangerous situations occur less frequently
 b)	Because drivers think ahead when travelling, so that possible dangers can be recognized in time and well avoided
 c)	Because you can only drive slowly using alternative fuels
+
 24. How can you save fuel?
 a)	Change to lower gear later
 b)	Change to higher gear earlier
 c)	By driving frequently at high revolutions
+
 25. How can noise be avoided?
 a)	By switching off the engine if you have to wait or stop for a longer period
 b)	If possible, avoid strong acceleration
 c)	By driving at high revolutions
+
 26. How is avoidable noise caused?
 a)	By “playing” with the accelerator when standing still
 b)	By driving with a defective exhaust
 c)	By sounding your horn when in danger
+
 27. Why should you avoid driving off at a rapid pace?
 a)	Because of heavier tyre wear
 b)	Because the noise you cause annoys others
 c)	Because this is a great strain on the rear brake
+
 28. How can you avoid pollution of the environment and benefit your engine after a cold start?
 a)	Set off at low revolutions per minute without running the engine until it warms up
 b)	Accelerate several times when stationary so that a favourable operation temperature is quickly reached
 c)	Do not accelerate, let the engine warm up while the vehicle is stationary
+
 29. What must you know about catalytic converters?
 a)	A catalytic converter can be damaged or destroyed when the car is towed to start
 b)	A catalytic converter can be damaged when the engine starts after many unsuccessful attempts
 c)	Unburned fuel in the catalytic converter cannot cause any damage when the engine starts
+
 30. How can you save fuel when driving a motor vehicle with automatic transmission?
 a)	By not using the “kick down” facility, if possible
 b)	By driving in gear “P” if possible
@@ -601,38 +632,47 @@ c)	When driving in town traffic, always keep the selector level in the lowest ge
 a)	By forming car pools
 b)	By avoiding peak traffic periods
 c)	By avoiding roads with frequent traffic jams
+
 32. What results in increased fuel consumption of your car?
 a)	Transporting unnecessary objects
 b)	A roof rack or ski rack
 c)	Excessive tyre pressure
+
 33. How can you save fuel?
 a)	By observing at least the tyre pressure indicated in the owner’s manual
 b)	By removing roof racks or ski racks
 c)	Avoid driving in top gear
+
 34. What should you avoid for reasons of environmental pollution?
 a)	Unnecessary trips
 b)	Loud music with windows opened
 c)	Letting the engine warm up when the vehicle is stationary
+
 35: Which conduct shows awareness of the environment?
 a)	The formation of car pools
 b)	Switching off the engine in a traffic jam
 c)	Changing to public transport at collective parking areas (“P+R”)
+
 36. How can you reduce noise?
 a)	By driving in 4th or 5th gear in built-up areas
 b)	By driving at high engine revolutions
 c)	By driving at high speed
+
 37. When are you allowed to enter an environmental zone?
 a)	When your vehicle has a corresponding emissions sticker
 b)	When your vehicle enjoys special rights
 c)	When you have a low-emission vehicle
+
 38. Where do you have to place the emissions sticket for identifying low emission vehicle?
 a)	Clearly visible on the inside of the windscreen
 b)	Clearly visible on the outside of the windscreen
 c)	Clearly visible on the inside of the rear window
+
 39. Why are you required to have a defective exhaust system repaired immediately?
 a)	Because parts of the exhaust system can drop on the roadway
 b)	Because of the noise pollution
 c)	Because the engine would overheat
+
 40. The noise of the exhaust has suddenly become louder than usual. What do you do?
 a)	Check the exhaust system
 b)	Renew the engine air filter
@@ -642,37 +682,52 @@ c)	Nothing because nobody is endangered
 a)	By maintaining an even driving style at low engine speeds
 b)	By having the proper tyre pressure
 c)	By using the total capacity of every gear
+
 42. What can you do to help protect the environment? I should avoid ___________
 a)	Driving short distances
 b)	Driving at flat-out speed
 c)	Driving in crowded city centres
+
 43. Other road users draw your attention to the persistent thick smoke coming from your exhaust. What do you have to do?
 a)	Have the vehicle promptly checked
 b)	Change down gears early
 c)	Change up gears early
+
 44. How can you reduce the noise made by car?
 a)	By driving at low engine speed
 b)	By removing the air filter
 c)	By using all-terrain tyres
+
+
 45. Where can used oil, lubricants and car batteries be taken to be disposed of properly?
 a)	To car workshops
 b)	To recycling centres
 c)	In the household waste
+
+
 46. How can you drive fuel-efficiently when travelling at a constant speed?
 a)	By using cruise control
 b)	By driving at a low engine speed
 c)	By driving at a high engine speed
+
+
 47. At which engine speed range will fuel consumption be lower?
 a)	At low engine speed
 b)	At high engine speed
+
+
 48. You have to wait because of a closed rail-crossing barrier. How can you now help protect the environment and save fuel?
 a)	By switching off the engine
 b)	By letting the engine idle
 c)	By switching off the automatic start-stop
+
+
 49. What measures help protect the environment? Using ______
 a)	Low-resistance tyres
 b)	Low viscosity engine oil
 c)	Air-conditioning systems
+
+
 50. What should you do after starting the vehicle? I should _______
 a)	Drive off as promptly as possible
 b)	Drive at low engine speeds where possible
@@ -682,47 +737,68 @@ c)	If possible, allow the engine of the stationary vehicle to warm up
 a)	Driving in a foresighted manner
 b)	Removing any non-essential roof boxes etc
 c)	Driving with winter tyres the whole year around
+
+
 52. What vehicles are generally exempt from the ban on road traffic in “environmental zones”?
 a)	Ambulance on duty
 b)	Agricultural and forestry tractors
 c)	All motor vehicles belonging to the environmental zone inhabitants
+
+
 53. You want to wash your car. Where should you do this in the interests of environmental protection?
 a)	At a carwash
 b)	In a carpark
 c)	On an open road
+
+
 54. What increases the fuel consumption of your vehicle considerably? The use of __________
 a)	Heated seats
 b)	The air-conditioning
 c)	The navigation device
+
+
 55. When is it sensible to switch off a combustion engine?
 a)	During lengthy waits at rail crossings
 b)	When loading and unloading the vehicle
 c)	When stopping at intersections with a stop sign
+
+
 56. When planning your journey, how can you make them environmentally-friendlier? By ____
 a)	Forming car pools with other vehicle users
 b)	Combining several destinations into one single trip
 c)	Planning to use public transport instead of my own vehicle
+
+
 57. What motor vehicles are permitted to enter an environment zone without a fine-particle badge?
 a)	All two and three-wheeled motor vehicles
 b)	All agricultural and forestry tractors
 c)	All motor vehicles with a catalytic converter
+
+
 58. What manufacturer specifications will allow you to know if your motor vehicle is environmentally-friendly? From the details _____
 a)	About the emissions class
 b)	About the fuel consumption
 c)	About the efficiency category
+
+
 59. Why are short journey performed with a cold engine especially damaging to the environment? Because driving with a cold engine means _____
 a)	More  fuel is consumed
 b)	The level of material wear is higher
 c)	The vehicle’s battery will be over-charged
+
+
 60. What causes avoidable noise?
 a)	By sounding the horn as a greeting
 b)	By firmly slamming doors shut
 c)	By driving with a roof-rack
-61. Which vehicles are allowed to enter this environment zone? 
- 
+
+
+61. Which vehicles are allowed to enter this environment zone?  
 a)	A motorcycle
 b)	A car with a red emissions sticker
 c)	A car which meets the requirements for a green sticker even if it does not have an emissions sticker
+
+
 62. If your car has a petrol engine but does not have an emissions sticker, are you allowed to enter an environmental zone which is sign-posted as follows?
  
 a)	No, because my car does not have an emissions sticker
